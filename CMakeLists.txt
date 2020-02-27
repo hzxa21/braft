@@ -4,8 +4,8 @@ set(CMAKE_MODULE_PATH ${CMAKE_SOURCE_DIR}/cmake)
 
 include(HunterGate)
 HunterGate(
-           URL "https://github.com/ambroff/hunter/archive/2bc5cbb9c118784a081ef783a84a9206a0616f58.zip"
-               SHA1 8510f9445a50e0534c81bc5a268010054129ac2a
+           URL "https://github.com/hzxa21/hunter/achrive/bfb0bbb78aee2833490f0f8483077a488f51e51d.zip"
+               SHA1 ca851059e94ce833576fb0d02d8af19f2efdc21b
                )
 
 project(braft)
